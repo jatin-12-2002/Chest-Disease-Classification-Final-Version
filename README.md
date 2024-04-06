@@ -83,11 +83,11 @@ pip install -r requirements.txt
 ```
 ### Step 4 - Set Environment variables for MLFlow
 ```bash
-export MLFLOW_TRACKING_URI=https://dagshub.com/jcole313/project.mlflow
+export MLFLOW_TRACKING_URI=https://dagshub.com/jatin-12-2002/Chest-Disease-Classification-Final-Version.mlflow
 
-export MLFLOW_TRACKING_USERNAME=jcole313
+export MLFLOW_TRACKING_USERNAME=jatin-12-2002
 
-export MLFLOW_TRACKING_PASSWORD=71368345455e3aa4cabbe321bbd6c4405a0db448
+export MLFLOW_TRACKING_PASSWORD=e5ca3cce5e86ab8f8fc147bab0c9a86f7cd05955
 ```
 ### Step 5 - Train application
 ```bash
@@ -112,9 +112,9 @@ http://localhost:8080/
 ## Mlflow dagshub connection Keys
 
 ```bash
-MLFLOW_TRACKING_URI=https://dagshub.com/jcole313/project.mlflow \
-MLFLOW_TRACKING_USERNAME=jcole313 \
-MLFLOW_TRACKING_PASSWORD=71368345455e3aa4cabbe321bbd6c4405a0db448 \
+MLFLOW_TRACKING_URI=https://dagshub.com/jatin-12-2002/Chest-Disease-Classification-Final-Version.mlflow \
+MLFLOW_TRACKING_USERNAME=jatin-12-2002 \
+MLFLOW_TRACKING_PASSWORD=e5ca3cce5e86ab8f8fc147bab0c9a86f7cd05955 \
 python script.py
 ```
 
